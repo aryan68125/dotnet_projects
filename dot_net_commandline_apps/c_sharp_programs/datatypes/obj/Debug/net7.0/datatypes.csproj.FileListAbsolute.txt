@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/bin/Debug/net7.0/datatypes
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/bin/Debug/net7.0/datatypes.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/bin/Debug/net7.0/datatypes.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/bin/Debug/net7.0/datatypes.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/bin/Debug/net7.0/datatypes.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/refint/datatypes.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/datatypes.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/datatypes/obj/Debug/net7.0/ref/datatypes.dll
