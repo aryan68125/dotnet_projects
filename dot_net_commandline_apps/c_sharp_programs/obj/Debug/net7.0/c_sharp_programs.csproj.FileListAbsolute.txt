@@ -3,7 +3,6 @@
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/bin/Debug/net7.0/c_sharp_programs.runtimeconfig.json
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/bin/Debug/net7.0/c_sharp_programs.dll
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/bin/Debug/net7.0/c_sharp_programs.pdb
-/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/obj/Debug/net7.0/c_sharp_programs.csproj.AssemblyReference.cache
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/obj/Debug/net7.0/c_sharp_programs.GeneratedMSBuildEditorConfig.editorconfig
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/obj/Debug/net7.0/c_sharp_programs.AssemblyInfoInputs.cache
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/obj/Debug/net7.0/c_sharp_programs.AssemblyInfo.cs
