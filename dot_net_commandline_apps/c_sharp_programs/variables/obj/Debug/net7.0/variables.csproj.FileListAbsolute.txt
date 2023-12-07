@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/bin/Debug/net7.0/variables
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/bin/Debug/net7.0/variables.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/bin/Debug/net7.0/variables.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/bin/Debug/net7.0/variables.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/bin/Debug/net7.0/variables.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/refint/variables.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/variables.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/variables/obj/Debug/net7.0/ref/variables.dll
