@@ -23,6 +23,9 @@
             Console.WriteLine(name[0]);
             Console.WriteLine(Addr.IndexOf("colony"));
             Console.WriteLine(Addr.IndexOf("c"));
+            Console.WriteLine(Addr.Substring(16));
+            Console.WriteLine(Addr.Substring(16,3));
+            Console.WriteLine(name.Equals(college_name));
         }
     }
 }
