@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/bin/Debug/net7.0/working_with_strings
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/bin/Debug/net7.0/working_with_strings.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/bin/Debug/net7.0/working_with_strings.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/bin/Debug/net7.0/working_with_strings.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/bin/Debug/net7.0/working_with_strings.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/refint/working_with_strings.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/working_with_strings.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/working_with_strings/obj/Debug/net7.0/ref/working_with_strings.dll
