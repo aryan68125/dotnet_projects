@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/bin/Debug/net7.0/calculator_user_input
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/bin/Debug/net7.0/calculator_user_input.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/bin/Debug/net7.0/calculator_user_input.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/bin/Debug/net7.0/calculator_user_input.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/bin/Debug/net7.0/calculator_user_input.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/refint/calculator_user_input.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/calculator_user_input.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/calculator_user_input/obj/Debug/net7.0/ref/calculator_user_input.dll
