@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/bin/Debug/net7.0/Array_basics
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/bin/Debug/net7.0/Array_basics.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/bin/Debug/net7.0/Array_basics.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/bin/Debug/net7.0/Array_basics.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/bin/Debug/net7.0/Array_basics.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/refint/Array_basics.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/Array_basics.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/Array_basics/obj/Debug/net7.0/ref/Array_basics.dll
