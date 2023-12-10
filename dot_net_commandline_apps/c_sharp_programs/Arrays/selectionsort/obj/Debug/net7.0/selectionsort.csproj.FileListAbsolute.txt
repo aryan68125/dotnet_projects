@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/bin/Debug/net7.0/selectionsort
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/bin/Debug/net7.0/selectionsort.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/bin/Debug/net7.0/selectionsort.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/bin/Debug/net7.0/selectionsort.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/bin/Debug/net7.0/selectionsort.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/refint/selectionsort.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/selectionsort.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/selectionsort/obj/Debug/net7.0/ref/selectionsort.dll

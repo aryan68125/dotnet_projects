@@ -1,0 +1,14 @@
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.AssemblyInfoInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.AssemblyInfo.cs
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.csproj.CoreCompileInputs.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/bin/Debug/net7.0/bubblesort_array
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/bin/Debug/net7.0/bubblesort_array.deps.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/bin/Debug/net7.0/bubblesort_array.runtimeconfig.json
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/bin/Debug/net7.0/bubblesort_array.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/bin/Debug/net7.0/bubblesort_array.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/refint/bubblesort_array.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.pdb
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/bubblesort_array.genruntimeconfig.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/c_sharp_programs/Arrays/bubblesort_array/obj/Debug/net7.0/ref/bubblesort_array.dll
