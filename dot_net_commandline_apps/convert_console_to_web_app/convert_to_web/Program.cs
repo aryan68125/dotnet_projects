@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore;
 using System;
 namespace convert_to_web
 {
@@ -9,8 +10,12 @@ namespace convert_to_web
         }
 
         //creating a host builder method
-        public static IHostBuilder CreateHostBuilder(string[] args){
-            Host.CreateHostBuilder(args);
-        } 
+        // public static IHostBuilder CreateHostBuilder(string[] args){
+        //     Host.CreateHostBuilder(args);
+        // }This may not work on some system becoz CreateHostBuilder function may not be present in IHostBuilder inside Microsoft.Extensions.Hosting;
+        //
+        public static WebHost CreateDefaultBuilder(string[] args){
+            Host.CreateDefaultBuilder();
+        }
     }
 }

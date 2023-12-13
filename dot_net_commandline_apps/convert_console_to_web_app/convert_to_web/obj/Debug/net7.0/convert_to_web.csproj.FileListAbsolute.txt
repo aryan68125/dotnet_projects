@@ -12,3 +12,5 @@
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/convert_console_to_web_app/convert_to_web/obj/Debug/net7.0/convert_to_web.pdb
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/convert_console_to_web_app/convert_to_web/obj/Debug/net7.0/convert_to_web.genruntimeconfig.cache
 /home/aditya/github/dot_net_projects/dot_net_commandline_apps/convert_console_to_web_app/convert_to_web/obj/Debug/net7.0/ref/convert_to_web.dll
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/convert_console_to_web_app/convert_to_web/obj/Debug/net7.0/convert_to_web.csproj.AssemblyReference.cache
+/home/aditya/github/dot_net_projects/dot_net_commandline_apps/convert_console_to_web_app/convert_to_web/obj/Debug/net7.0/convert_to_web.MvcApplicationPartsAssemblyInfo.cache
