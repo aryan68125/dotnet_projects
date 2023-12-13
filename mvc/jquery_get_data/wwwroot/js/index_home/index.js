@@ -2,6 +2,7 @@ $('body').on('click','#submit', function(){
 get_data();
 console.log("anonymous submit button function called");
 });
+confirm(message)
 function get_data(){
     console.log("get_data function called");
     var _Name = $("#name").val();
@@ -61,18 +62,23 @@ $('body').on('click','#cancel',function(){
 })
 function reset_form(){
     //reseting input text fields
-    console.log("reset function called");
-    $("#name").val('');
-    $("#mobile").val('');
-    $("#email").val('');
-    //reseting gender radio checkboxes
-    $("#isMale").prop('checked', false);
-    $("#isFemale").prop('checked', false);
-    //reseting checkboxes
-    $("#python").prop('checked', false);
-    $("#c_sharp").prop('checked', false);
-    $("#java").prop('checked', false);
-    $("#javascript").prop('checked', false);
-    //reseting the dropdown menu
-    $("#dropdown").val(0);
+    if (confirm("Press a button!") == true) {
+        text = "You pressed OK!";
+        console.log("reset function called");
+        $("#name").val('');
+        $("#mobile").val('');
+        $("#email").val('');
+        //reseting gender radio checkboxes
+        $("#isMale").prop('checked', false);
+        $("#isFemale").prop('checked', false);
+        //reseting checkboxes
+        $("#python").prop('checked', false);
+        $("#c_sharp").prop('checked', false);
+        $("#java").prop('checked', false);
+        $("#javascript").prop('checked', false);
+        //reseting the dropdown menu
+        $("#dropdown").val(0);
+      } else {
+        text = "You canceled!";
+      }
 }
