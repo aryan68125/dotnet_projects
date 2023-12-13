@@ -28,3 +28,4 @@
 /home/aditya/github/dot_net_projects/mvc/jquery_get_data/obj/Debug/net7.0/jquery_get_data.pdb
 /home/aditya/github/dot_net_projects/mvc/jquery_get_data/obj/Debug/net7.0/jquery_get_data.genruntimeconfig.cache
 /home/aditya/github/dot_net_projects/mvc/jquery_get_data/obj/Debug/net7.0/ref/jquery_get_data.dll
+/home/aditya/github/dot_net_projects/mvc/jquery_get_data/obj/Debug/net7.0/jquery_get_data.csproj.AssemblyReference.cache

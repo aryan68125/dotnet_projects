@@ -1,7 +1,9 @@
-$('#index_body').on('click','#submit', function(){
+$('body').on('click','#submit', function(){
 get_data();
+console.log("anonymous submit button function called");
 });
 function get_data(){
+    console.log("get_data function called");
     var _Name = $("#name").val();
     var _mobile = $("#mobile").val();
     var _email = $("#email").val();
@@ -55,9 +57,11 @@ function get_data(){
 
 $('body').on('click','#cancel',function(){
     reset_form()
+    console.log("reset cancel button anonymous function called");
 })
 function reset_form(){
     //reseting input text fields
+    console.log("reset function called");
     $("#name").val('');
     $("#mobile").val('');
     $("#email").val('');
