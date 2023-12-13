@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aditya/github/dot_net_projects/mvc/mvc_tutorial/mvc_tutorial.csproj": {}
+  },
+  "projects": {
+    "/home/aditya/github/dot_net_projects/mvc/mvc_tutorial/mvc_tutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aditya/github/dot_net_projects/mvc/mvc_tutorial/mvc_tutorial.csproj",
+        "projectName": "mvc_tutorial",
+        "projectPath": "/home/aditya/github/dot_net_projects/mvc/mvc_tutorial/mvc_tutorial.csproj",
+        "packagesPath": "/home/aditya/.nuget/packages/",
+        "outputPath": "/home/aditya/github/dot_net_projects/mvc/mvc_tutorial/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aditya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,4 +1,4 @@
-$('body').on('click','#submit', function(){
+$('#index_body').on('click','#submit', function(){
 get_data();
 });
 function get_data(){
@@ -27,27 +27,15 @@ function get_data(){
     //checking is checkbox is checked or not
     if($("#python").is(":checked")){
         _python=1;
-        $("#c_sharp").prop('checked', false);
-        $("#java").prop('checked', false);
-        $("#javascript").prop('checked', false);
     }
     if($("#c_sharp").is(":checked")){
         _c_sharp=1;
-        $("#python").prop('checked', false);
-        $("#java").prop('checked', false);
-        $("#javascript").prop('checked', false);
     }
     if($("#java").is(":checked")){
         _java=1;
-        $("#python").prop('checked', false);
-        $("#c_sharp").prop('checked', false);
-        $("#javascript").prop('checked', false);
     }
     if($("#javascript").is(":checked")){
         _javascript=1;
-        $("#python").prop('checked', false);
-        $("#c_sharp").prop('checked', false);
-        $("#java").prop('checked', false);
     }
 
     //creating object of data that we got from the html input form
@@ -62,7 +50,7 @@ function get_data(){
     data_object.java = _java;
     data_object.javascript = _javascript;
     data_object.dropdown_select_option = _dropdown_selected_option;
-    console.log(object);
+    console.log(data_object);
 }
 
 $('body').on('click','#cancel',function(){
