@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "PG_Report";
+    Layout = "_LayoutAdmin";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <h4 class="card-title">PG Report</h4>
+                        </div>
+                        <div class="col-sm-5"></div>
+                        <div class="col-sm-3">
+                            <div class="row">
+                                <div class="col-6">
+                                    <input type="text" class="form-group search_input_pg_report"/>
+                                </div>
+                                <div class="col-6">
+                                    <button class="btn btn-primary btn_color">Search</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                       <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr class="t_head">
+                                        <th> Sr. No </th>
+                                        <th> Plan </th>
+                                        <th> Price </th>
+                                        <th> GST </th>
+                                        <th> Plan Type </th>
+                                        <th> Entry On </th>
+                                    </tr>
+                                </thead>
+                                <tbody id="My_cart_table">
+                                </tbody>
+                            </table>
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/ProjectJS/Report/PG_Report.js" asp-append-version="true"></script>
+}
+

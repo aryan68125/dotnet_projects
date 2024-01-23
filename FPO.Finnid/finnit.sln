@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "finnit", "finnit.csproj", "{E1C2DCA0-1DB3-422D-8CD7-0B096421126C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C2DCA0-1DB3-422D-8CD7-0B096421126C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C2DCA0-1DB3-422D-8CD7-0B096421126C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C2DCA0-1DB3-422D-8CD7-0B096421126C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C2DCA0-1DB3-422D-8CD7-0B096421126C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB520B2-4D34-40D5-BE7A-F984CBB72DFB}
+	EndGlobalSection
+EndGlobal

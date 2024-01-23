@@ -1,0 +1,12 @@
+﻿.t_head {
+    background: #2B468B;
+    color: white;
+    font-weight: bolder;
+}
+.btn_color {
+    background: #2B468B !important;
+    color:white !important;
+}
+.search_input_pg_report{
+    height:2.7rem;
+}

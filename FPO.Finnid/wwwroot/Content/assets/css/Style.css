@@ -1,0 +1,124 @@
+﻿.srv__visited {
+    margin-top:30px;
+
+}
+.footer .socil-icon ul a {
+    font-size: 1.125em;
+    color: #fff;
+    display: block;
+    text-align: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    transition: color 0.4s ease-in, background 0.4s ease-in-out;
+}
+
+    .footer .socil-icon ul a:hover {
+        color: #233863;
+        background: #fff;
+    }
+@media(max-width:480px) {
+    .sec-heading:after {
+        top: 101px;
+    }
+    .abutus-content .sec-heading:after,
+    .whyus-heading .sec-heading:after,
+    #why-feature .sec-heading:after,
+    .module .sec-heading:after,
+    .interface .sec-heading:after,
+    #contacts .sec-heading:after {
+        top: 60px;
+    }
+
+
+}
+
+.card {
+    position: relative;
+}
+
+    .card .card__links {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+
+
+.sign_in_card {
+    background: #EEF5FF !important;
+}
+
+.button_style {
+    background: #2B468B !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.cus-hieght {
+    padding-top: 15rem;
+    padding-bottom: 3.06rem;
+}
+
+.container_bg {
+    background-color: #F8F8F8;
+}
+
+.close {
+    background: transparent !important;
+    color: red !important;
+    border: none !important;
+    font-size: 2rem !important;
+}
+
+@media screen and (max-width: 414px) {
+    .pwd {
+        position: relative;
+        width: 19.8rem;
+    }
+
+    .pwd2 {
+        position: relative;
+        width: 19.6rem;
+    }
+}
+
+@media screen and (min-width: 415px) {
+    .pwd {
+        position: relative;
+        width: 21.4rem;
+    }
+
+    .pwd2 {
+        position: relative;
+        width: 21.2rem;
+    }
+}
+
+.p-viewer {
+    z-index: 9999;
+    position: absolute;
+    top: 30%;
+    right: 10px;
+}
+
+.L-view {
+    z-index: 9999;
+    position: absolute;
+    top: 18%;
+    right: 10px;
+}
+
+.link_style {
+    color: #2B468B;
+    font-weight: bold;
+}
+
+.cus-append {
+    margin-top: 10px;
+    height: 2.5em;
+    border-radius: 0px;
+}

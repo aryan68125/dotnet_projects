@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewData["Title"] = "Finnidpro – Contact us, Company Registration, Trademark Registration";
+    ViewData["Meta-Description"] = "Finnidpro has India's most trusted and leading legal advisors team. Contact us for company registration, Nidhi company registration, Producer Company Registration, Pvt Ltd Company Registration";
+}
+<style>
+    #sm-banner {
+        background-image: url('../images/sm-banner.jpg');
+    }
+</style>
+<section id="sm-banner" >
+    <div class="site-container">
+        <article>
+            <h1>Contact Us</h1>
+            <p>
+            </p>
+        </article>
+    </div>
+</section>
+
+<section id="contacts">
+    <div class="container">
+        <div class="heading">
+            <h2 class="sec-heading"><span>Get in</span> Touch</h2>
+            <p></p>
+        </div>
+        <div class="contact">
+            <div class="row gy-3">
+                <div class="col-md-6 col-lg-7">
+                    <div class="contact-address">
+                        <h3 class="ter-heading"><span><i class="fas fa-map-marker-alt"></i></span> Office Address</h3>
+                        <p><b></b> KP - 4/371, Khargapur, Gomti Nagar,<br /> Lucknow - 226010 (Near Sankat Mochan Dwar)</p>  
+                        @*<p><b>2. </b> 2nd Floor, Nanda Bhawan - 5A Ashok Avenue, <br />Sapru Marg Hazratganj Lucknow-226001</p>*@
+                        <h3 class="ter-heading hd-addr"><span><i class="fas fa-phone-alt"></i></span> Contact Us</h3>
+                        @*<p>0522 – 356 7620,</p>*@
+                        <p>+91-90440 53006, </p>
+                        <p>+91-93356 88885 </p>
+                        <h3 class="ter-heading hd-addr"><span><i class="fas fa-envelope"></i></span> Email Us</h3>
+                        <ul>
+                            <li><a href="#">welisten@finnid.in</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-5">
+                    <div class="contact-form">
+                        <form>
+                            <label for="name">Name:</label>
+                            <input type="text" id="name" name="name" class="" maxlength="50">
+
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" maxlength="150">
+
+                            <label for="cont">Contact No.:</label>
+                            <input type="text" id="cont" name="contact" class="Number" maxlength="10">
+
+                            <label for="msg">Message:</label>
+                            <textarea name="message" id="msg" cols="3" rows="5" maxlength="500"></textarea>                                                 
+
+                            <button type="button" id="btnSave" class="btn btn--primary">SUBMIT</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts
+{
+    <script src="~/ProjectJS/Home/inquirydetails.js" asp-append-version="true"></script>
+}
+

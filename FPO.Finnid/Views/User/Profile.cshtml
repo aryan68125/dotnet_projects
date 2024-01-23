@@ -1,0 +1,38 @@
+﻿@using System.Security.Claims
+@{
+    Layout = "_layoutAdmin";
+}
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Profile</h4>
+                <form class="forms-sample">
+                    <div class="row">
+                        <div class="col-sm-6 form-group">
+                            <label for="exampleInputUsername1">Name</label>
+                            <input type="text" class="form-control" id="exampleInputUsername1" asp-for="@User.FindFirst(ClaimTypes.GivenName).Value" placeholder="Username">
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <label for="exampleInputUsername1">Code</label>
+                            <input type="text" class="form-control" id="exampleInputUsername1" asp-for="@User.FindFirst("CustomerId").Value" placeholder="Username">
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <label for="exampleInputUsername1">Email</label>
+                            <input type="text" class="form-control" id="exampleInputUsername1" asp-for="@User.FindFirst(ClaimTypes.Email).Value" placeholder="Username">
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <label for="exampleInputUsername1">MobileNo</label>
+                            <input type="text" class="form-control" id="exampleInputUsername1" asp-for="@User.FindFirst(ClaimTypes.MobilePhone).Value" placeholder="Username">
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <label for="exampleInputUsername1">State</label>
+                            <input type="text" class="form-control" id="exampleInputUsername1" asp-for="@User.FindFirst("StateName").Value" placeholder="Username">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Update</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

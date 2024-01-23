@@ -1,0 +1,112 @@
+﻿@model List<State>
+@{
+    ViewData["Title"] = "Login";
+}
+<div class="container cus-hieght">
+    <div class="row pb-4">
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4">
+            <div class="card sign_in_card">
+                <div class="card-body" id="card-body">
+                    <h2 class="card-title text-center">Sign Up</h2>
+                    <div class="input-group mb-1">
+                        <input type="text" id="txtname" class="form-control" placeholder="Full Name" required>
+                        <div class="input-group-append">
+                            <span class="input-group-text bg-white cus-append">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="input-group mb-1">
+                        <input type="text" id="txtemail" class="form-control" placeholder="Email" required>
+                        <div class="input-group-append">
+                            <span class="input-group-text bg-white cus-append">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="input-group mb-1">
+                        <input type="text" id="txtmobile" class="form-control" placeholder="Mobile No." required>
+                        <div class="input-group-append">
+                            <span class="input-group-text bg-white cus-append">
+                                <i class="fa fa-phone" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 mb-3 mt-2">
+                            <div class="input-group">
+                                
+                                <select class="form-control" id="ddlState" required onchange="bindCity()">
+                                    <option value="">:: SELECT STATE ::</option>
+                                    @{
+                                        foreach (var item in Model)
+                                        {
+                                            <option value="@item.Id">@item.Name</option>
+                                        }
+                                    }
+                                </select>
+                                <span class="L-view">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 mb-3 mt-2">
+                            <div class="input-group">
+                                <select class="form-control" id="ddlCity" required>
+                                    <option value="">:: SELECT CITY ::</option>
+                                </select>
+                                <span class="L-view">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    <div class="input-group mb-1">
+                        <div class="pwd">
+                            <input type="password" id="txtpassword" class="form-control" placeholder="Password" required>
+                            <span class="p-viewer">
+                                <i class="fas fa-eye-slash" id="eye"></i>
+                            </span>
+                        </div>
+                        <div class="input-group-append">
+                            <span class="input-group-text bg-white cus-append">
+                                <i class="fa fa-lock" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="input-group mb-1">
+                        <div class="pwd2">
+                            <input type="password" id="txtcrmpassword" class="form-control" placeholder="Confirm Password" required>
+                            <span class="p-viewer">
+                                <i class="fas fa-eye-slash" id="eye2"></i>
+                            </span>
+                        </div>
+                        <div class="input-group-append">
+                            <span class="input-group-text bg-white cus-append">
+                                <i class="fa fa-sign-out" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row mb-1">
+                        <div class="col-sm-3">
+                            <button type="button" class="btn btn-primary button_style" id="signin" onclick="signUp()">Register</button>
+                        </div>
+                        <div class="col-sm-9 pt-2 text-end">
+                            <a href="/Account/Login" class="link_style">I already have an Account</a>
+                        </div>
+                    </div>
+                    <div class="row mb-1">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+</div>
+@section Scripts{
+    <script src="~/ProjectJS/Account/account.js"></script>
+}
